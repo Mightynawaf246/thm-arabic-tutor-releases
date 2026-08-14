@@ -3,8 +3,8 @@
     "thm-arabic-tutor@local.dev": {
       "updates": [
         {
-          "version": "1.16.0",
-          "update_link": "https://raw.githubusercontent.com/Mightynawaf246/thm-arabic-tutor-releases/main/thm-arabic-tutor-1.16.0.xpi",
+          "version": "1.17.0",
+          "update_link": "https://raw.githubusercontent.com/Mightynawaf246/thm-arabic-tutor-releases/main/thm-arabic-tutor-1.17.0.xpi",
           "browser_specific_settings": {
             "gecko": {
               "strict_min_version": "128.0"
